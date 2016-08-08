@@ -1,3 +1,3 @@
-#Sketch Pad
+#Sketch Pad Project
 
-Project
+JavaScript/JQuery assignment. Part of The Odin Project

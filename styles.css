@@ -1,0 +1,67 @@
+.sketcher {
+    width: 1100px;
+    height: 1100px;
+    background-color: #D11141;;
+    margin: 50px auto;
+    border-radius: 30px;
+    border: 7px #b21515;
+    
+}
+
+h1 {
+    font-family: 'Paytone One', sans-serif;
+    font-size: 90px;
+    color: yellow;
+    text-align: center;
+    margin: 10px auto;
+}
+
+.button_container {
+    height: 60px;
+    width: 800px;
+    margin: auto;
+    text-align: center;
+}
+
+#new, #clear {
+    height:100px;
+    width:100px;
+    background-color: #f4f4f4;
+    color: #000000;
+    font-family: Arial, sans-serif;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 55px;
+    vertical-align: middle;
+    border-radius: 10px;
+    border: 6px solid #b21515;
+    display: inline-block;
+    border-radius: 100px;
+    float: left;
+    margin-top: 3px;
+    outline: 0;
+}
+
+
+#clear {
+    float: right;
+   
+}
+
+.grid {
+    width: 800px;
+    height: 800px;
+    margin: 0px auto 20px;
+    background-color: #eee;
+    border: 10px solid #b21515;
+    
+}
+
+.row {
+    width: 800px;
+}
+
+.square {
+    background-color: #eee;
+    display: inline-block;
+}
